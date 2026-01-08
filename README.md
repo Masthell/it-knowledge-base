@@ -1,19 +1,31 @@
 # 🖥️ База знаний
 
-## 📚 Содержание
-1. [Инфраструктура](1-infrastructure/)
-2. [Сети](2-network/) актуально
-3. [Серверы](3-servers/)
-4. [Автоматизация](4-automation/)
-5. [ПО](5-software/)
-6. [Решенные проблемы](6-problems/)
-7. [Шпаргалки](7-cheatsheets/)
+<div align="center">
 
-## 🔄 Последние обновления
-- 2025-13-11: добавлено 2-network/fault-tolerant-it-infrastructure.md гайд по отказоустойчивости
-- 2025-13-11: добавлено 2-network/devops-basics.md база по девопсу
-- 2025-12-12: добавлено 2-network/monitoring-implementation-log.md документация по внедрению мониторинга и мое решение проблем
-- 2025-12-12: добавлено 2-network/monitoring-setup.md Настройка мониторинга системы
-- 2025-12-11: добавлено 2-network/basics.md гайд по основам сетей: от TCP/IP до DNS + основы действий
+<img width="741" height="384" alt="image" src="https://github.com/user-attachments/assets/fe2487a9-4d44-4a7b-bc06-a90cb4fe10e6" />
 
-в планах дописывать систему базы знаний на практике и после убраться в архитектуре тут
+# From College to Cloud: Building Modern Infrastructure
+### "Не бывает неудач — бывают результаты. И ты учишься на них."
+</div>
+
+Этот репозиторий — мой дневник, где я собираю весь опыт от обучения в колледже до реальной практики в IT. Здесь живут конспекты по безопасности, решения рабочих проблем и скрипты, которые помогают автоматизировать рутину сисадмина.
+
+## 📚 Главные разделы
+1. [Колледж](1-college/) конспекты по инфобезу, сети, ОС
+2. [Практика](2-practice/) актуально настройка серверов, задачи
+3. [Скрипты](3-scripts/) автоматизация рутины
+4. [Проблемы](4-problems/) ошибки и как я их решила 
+5. [Шпаргалки](5-cheatsheets/) команды, конфиги, cheat sheets
+
+## Let's start with the fundamentals: laboratory and basic services
+#### Начнём с фундамента: лабораторные и базовые сервисы
+- [гайд по основам сетей: от TCP/IP до DNS + основы действий](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/basics.md)
+- [Что такое DevOps?](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/devops-basics.md)
+- ["Построение отказоустойчивой IT-инфраструктуры с нуля | 7 уровней защиты" SPOF ](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/fault-tolerant-it-infrastructure.md)
+- [Что такое DevOps?](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/devops-basics.md)
+- [документация по внедрению мониторинга](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/monitoring-implementation-log.md)
+- [Настройка мониторинга системы](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/monitoring-setup.md)
+- [VoIP: Asterisk/FreePBX - виртуальная АТС](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/voip.md)
+- [VPN: Site-to-Site и Remote Access](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/vpn_opnsense.md)
+- [Виртуализация на Windows: Проблемы и решения](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/windows_virtualization.md)
+
