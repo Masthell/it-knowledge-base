@@ -23,12 +23,12 @@
 
 #### Начнём с фундамента: лабораторные и базовые сервисы
 
-- [гайд по основам сетей: от TCP/IP до DNS + основы действий](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/basics.md)
-- [Что такое DevOps?](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/devops-basics.md)
-- ["Построение отказоустойчивой IT-инфраструктуры с нуля | 7 уровней защиты" SPOF ](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/fault-tolerant-it-infrastructure.md)
-- [Что такое DevOps?](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/devops-basics.md)
-- [документация по внедрению мониторинга](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/monitoring-implementation-log.md)
-- [Настройка мониторинга системы](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/monitoring-setup.md)
-- [VoIP: Asterisk/FreePBX - виртуальная АТС](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/voip.md)
-- [VPN: Site-to-Site и Remote Access](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/vpn_opnsense.md)
-- [Виртуализация на Windows: Проблемы и решения](https://github.com/Masthell/it-knowledge-base/blob/main/2-practice/windows_virtualization.md)
+- [гайд по основам сетей: от TCP/IP до DNS + основы действий](https://github.com/Masthell/it-knowledge-base/blob/main/1-practice/basics.md)
+- [Что такое DevOps?](https://github.com/Masthell/it-knowledge-base/blob/main/2\1-practice/devops-basics.md)
+- ["Построение отказоустойчивой IT-инфраструктуры с нуля | 7 уровней защиты" SPOF ](https://github.com/Masthell/it-knowledge-base/blob/main/1-practice/fault-tolerant-it-infrastructure.md)
+- [Что такое DevOps?](https://github.com/Masthell/it-knowledge-base/blob/main/1-practice/devops-basics.md)
+- [документация по внедрению мониторинга](https://github.com/Masthell/it-knowledge-base/blob/main/1-practice/monitoring-implementation-log.md)
+- [Настройка мониторинга системы](https://github.com/Masthell/it-knowledge-base/blob/main/1-practice/monitoring-setup.md)
+- [VoIP: Asterisk/FreePBX - виртуальная АТС](https://github.com/Masthell/it-knowledge-base/blob/main/1-practice/voip.md)
+- [VPN: Site-to-Site и Remote Access](https://github.com/Masthell/it-knowledge-base/blob/main/1-practice/vpn_opnsense.md)
+- [Виртуализация на Windows: Проблемы и решения](https://github.com/Masthell/it-knowledge-base/blob/main/1-practice/windows_virtualization.md)
