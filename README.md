@@ -23,6 +23,7 @@
 
 #### Начнём с фундамента: лабораторные и базовые сервисы
 
+- [Развертывание тестовой инфраструктуры AD на базе VMware](https://github.com/Masthell/it-knowledge-base/blob/main/1-practice/deployment-1C-test-infrastructureon-VMware.md)
 - [гайд по основам сетей: от TCP/IP до DNS + основы действий](https://github.com/Masthell/it-knowledge-base/blob/main/1-practice/basics.md)
 - [Что такое DevOps?](https://github.com/Masthell/it-knowledge-base/blob/main/2\1-practice/devops-basics.md)
 - ["Построение отказоустойчивой IT-инфраструктуры с нуля | 7 уровней защиты" SPOF ](https://github.com/Masthell/it-knowledge-base/blob/main/1-practice/fault-tolerant-it-infrastructure.md)
