@@ -1,3 +1,4 @@
+[>> вернуться на главную страницу](https://github.com/Masthell/it-knowledge-base/blob/main/README.md)  
 ## **Развертывание тестовой инфраструктуры AD на базе VMware**
 
 ### **Ключевые моменты**
@@ -153,3 +154,4 @@ SRV-SQL:   192.168.191.20/24  DNS: 192.168.191.10
 - Документирование всех шагов и учетных данных
 
 ---
+[>> вернуться на главную страницу](https://github.com/Masthell/it-knowledge-base/blob/main/README.md)  
