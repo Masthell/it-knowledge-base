@@ -23,6 +23,7 @@
 
 #### Начнём с фундамента: лабораторные и базовые сервисы
 
+- [Теория архитектура кластера 1С](https://github.com/Masthell/it-knowledge-base/blob/main/1-practice/1c_enterprise_cluster.md)
 - [Развертывание тестовой инфраструктуры AD на базе VMware](https://github.com/Masthell/it-knowledge-base/blob/main/1-practice/deployment-1C-test-infrastructureon-VMware.md)
 - [гайд по основам сетей: от TCP/IP до DNS + основы действий](https://github.com/Masthell/it-knowledge-base/blob/main/1-practice/basics.md)
 - [Что такое DevOps?](https://github.com/Masthell/it-knowledge-base/blob/main/2\1-practice/devops-basics.md)
